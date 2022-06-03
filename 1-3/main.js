@@ -14,8 +14,7 @@ if(x >= 10 && x <= 20){
 let y = 0;
 if (y % 2 === 0){
     console.log("偶数です");
-}
-
-if (y % 2 !== 0){
+}else{
     console.log("奇数です");
 }
+
